@@ -28,7 +28,7 @@ python app.py
 ```
 
 ```bash
-Author: Dhruv Bhavsar
-Email: dbhavsar9898@gmail.com
+Author: Priyanshi Ranawat
+Email: priyanshiranawat15@gmail.com
 
 ```
